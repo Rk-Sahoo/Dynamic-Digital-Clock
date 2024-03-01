@@ -52,7 +52,7 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 
 ## 🚀 About Me
-                                            Hi there 👋, I'm Rakesh Kumar Sahoo
+                                        Hi there 👋, I'm Rakesh Kumar Sahoo
 -----------------------------------------------
 I am a Software Programming Intern . I'm interested in Python Full Stack, Data Science, Machine Learning and Deep Learning.
 
